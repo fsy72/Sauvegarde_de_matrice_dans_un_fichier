@@ -1,5 +1,3 @@
-// Desktop/Prog.SR/home_work/matrice_10*10
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
